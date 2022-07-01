@@ -1,0 +1,7 @@
+syntax: glob
+.vscode/launch.json
+certs
+logs
+node_modules
+yarn.lock
+yarn-error.log
